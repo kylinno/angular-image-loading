@@ -1,15 +1,13 @@
 {
-  "name": "imageLoader",
+  "name": "imageLoading",
   "version": "0.0.1",
   "main": [
-    "./dist/angularImageLoader.js",
-    "./dist/angularImageLoader.css"
+    "./dist/angular-image-loading.js"
   ],
   "authors": [
     "liuwings"
   ],
   "description": "",
-  "main": "imageLoader.js",
   "license": "MIT",
   "homepage": "",
   "dependencies": {
