@@ -1,0 +1,17 @@
+{
+  "name": "angular-img-loader",
+  "description": "",
+  "version": "0.0.1",
+  "author": "liuwings",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  },
+
+  "dependencies": {
+  },
+	"devDependencies": {
+		"minify": "^1.0.4",
+		"uglify-js": "^2.4.15"
+	}
+}
